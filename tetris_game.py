@@ -1,4 +1,5 @@
 import random
+
 from PyQt6.QtGui import QColor
 
 
